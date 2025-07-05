@@ -48,6 +48,7 @@ public class TaskList {
     LocalDateTime created,
     LocalDateTime updated
   ) {
+    System.out.println("Entity Layer: creating TaskList object");
     this.id = id;
     this.title = title;
     this.description = description;

@@ -2,7 +2,7 @@
 
 A modern, full-stack task management application built with **Spring Boot** (backend) and **Next.js** (frontend). This project demonstrates enterprise-level architecture patterns, RESTful API design, and modern web development practices.
 
-![Project Architecture](./Ekran%20Resmi%202025-07-01%2014.04.23.png)
+![Project Architecture](./docs/Ekran%20Resmi%202025-07-01%2014.04.23.png)
 
 ## 🏗️ **System Architecture**
 
